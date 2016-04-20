@@ -3,9 +3,13 @@
 	font-size: 1.25em;
 	border-color: white;
 	font-family: "Courier New";
+	top: -2em;
 }
 
-
+.navtop{
+	position: relative;
+    top: -8em;
+}
 
 .navbar-header{
 	font-style: bold; 
@@ -15,6 +19,6 @@
 }
 
 .logo{
-	height: 15%;
-	width: 15%;
+	height: 25%;
+	width: 25%;
 }
