@@ -1,0 +1,20 @@
+.navbar{
+	background-color:white;
+	font-size: 1.25em;
+	border-color: white;
+	font-family: "Courier New";
+}
+
+
+
+.navbar-header{
+	font-style: bold; 
+	padding-top: 2em;
+/*	padding-bottom: 2em;
+*/	padding-left: 5em;
+}
+
+.logo{
+	height: 15%;
+	width: 15%;
+}
