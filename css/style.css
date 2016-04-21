@@ -3,32 +3,46 @@
 	font-size: 1.25em;
 	border-color: white;
 	font-family: "Courier New";
-	top: -2em;
+	top: -5vh;
 }
 
 .navtop{
 	position: relative;
-	top: 3em;
+	top: -20vh;
 }
 
 .navbar-header{
 	font-style: bold; 
-	padding-top: 2em;
-/*	padding-bottom: 2em;
-*/	padding-left: 5em;
+	padding-top: 5vh;
+	padding-left: 6vh;
 }
 
 .logo{
-	height: 10em;
-	width: 10em;
+	height: 20%;
+	width: 20%;
 	position: relative;
-	margin-left: -4em;
+	margin-left: 2vh;
 }
 
 .bike{
 	position: relative;
-	top: -5em;
+	top: -17vh;
 	width: 100%
+}
+
+#slogan{
+	font-family: "Courier New";
+	color:white;
+	font-size: 3.5em;
+	position: relative;
+	top:-65vw;
+	text-align: center;
+}
+
+#arrow{
+	width:5em;
+	height:5em;
+
 }
 
 #team{
