@@ -12,26 +12,22 @@
     <link href="../css/style.css" rel="stylesheet">
   </head>
 
-  <body>
-	<nav class="navbar navbar-default">
-	  <div class="container-fluid">
+  <body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+	<nav class="navbar navbar-custom navbar-fixed-top" role="navigation">
+	  <div class="container">
 	    <!-- Brand and toggle get grouped for better mobile display -->
 	    	<div class="navbar-header">
-	      	<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1" aria-expanded="false">
-	        	<span class="sr-only">Toggle navigation</span>
-	        	<span class="icon-bar"></span>
-	        	<span class="icon-bar"></span>
-	        	<span class="icon-bar"></span>
-	     	 </button>
+              <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-main-collapse">
+                 <i class="fa fa-bars"></i>
+              </button>
+              <a class="navbar-brand page-scroll" href="#page-top">
+               		 <span class="light"><li><a href="index.html"><img class = "logo" src="../Brew Bike Logo.png"></a></li></span>
+                </a>
 	   	 </div>
-	   	 <a id="menu-toggle" href="#" class="btn btn-dark btn-lg toggle"><i class="fa fa-bars"></i></a>
 
 	    <!-- Collect the nav links, forms, and other content for toggling -->
 
-	    	<div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
-	    	<ul class="nav navbar-nav navbar-left">
-	    		<li><a href="index.html"><img class = "logo" src="../Brew Bike Logo.png"></a></li>
-	    	</ul>
+	    	<div class="collapse navbar-collapse navbar-right navbar-main-collapse">
 	    	<div class = "navtop">
 	      		<ul class="nav navbar-nav navbar-right">
 	        		<li><a class="page-scroll" href="#about">About</a></li>

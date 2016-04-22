@@ -3,30 +3,31 @@
 	font-size: 1.25em;
 	border-color: white;
 	font-family: "Courier New";
+	height:27%;
 	top: -5vh;
 }
 
 .navtop{
 	position: relative;
-	top: -20vh;
+	top: -12vh;
 }
 
 .navbar-header{
 	font-style: bold; 
 	padding-top: 5vh;
-	padding-left: 6vh;
+	padding-left: -5vh;
 }
 
 .logo{
-	height: 20%;
-	width: 20%;
+	height: 15%;
+	width: 15%;
 	position: relative;
 	margin-left: 2vh;
 }
 
 .bike{
 	position: relative;
-	top: -17vh;
+	top: 23vh;
 	width: 100%
 }
 
