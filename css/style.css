@@ -52,7 +52,13 @@
 	margin-left:45%;
 }
 
+#coffee{
+	width:104%;
+	margin: -2%;
+}
+
 #team{
-	margin:-2%;
+	margin-left:-2%;
+	margin-right:-2%;
 	width: 104%
 }
