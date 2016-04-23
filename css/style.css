@@ -18,6 +18,7 @@
 	padding-left: -5vh;
 }
 
+
 .logo{
 	height: 15%;
 	width: 15%;
@@ -29,7 +30,9 @@
 .bike{
 	position: relative;
 	top: 23vh;
-	width: 100%
+	width: 104%;
+	margin-left: -2%;
+	margin-right:-2%;
 }
 
 #slogan{
@@ -37,7 +40,7 @@
 	color:white;
 	font-size: 3.5em;
 	position: relative;
-	top:-65vw;
+	top:-30vw;
 	text-align: center;
 }
 
